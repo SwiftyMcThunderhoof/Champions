@@ -1,0 +1,5 @@
+# Emporium
+
+Every week, hundreds of miners boil up from the depths, their pockets lined with freshly earned coin. The Emporium exists to separate the men from the money, and at this it is paramount among Diamond Lake's diverse businesses. Ten years ago it was simply Zalamandra's, one of a vice dens along the Vein. Its ill fortunes changed the day its charismatic young madam seduced Professor Montague Marat. proprietor of a traveling sideshow and curiosity collection passing through Diamond two soon joined forces, and a cavalcade of freaks and eccentrics moved into the building's lower floor. Thus was born Zalamandra's Emporium, and Diamond Lake has never been the same. 
+
+Upon entering, visitors encounter a small desk station manned by a grinning, businesslike attendant named **Gaspar**. The thin, balding man smiles wryly at all times, a gesture accentuated by his upcurled mustache.
